@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Eneready App</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="good_morning">Good morning</string>
+    <string name="sujit_das">Sujit Das 👋</string>
+    <string name="today_s_click">Today\'s Click</string>
+    <string name="top_location">Top Location</string>
+    <string name="top_source">Top Source</string>
+    <string name="view_analytics">View Analytics</string>
+    <string name="view_all_links">View all Links</string>
+    <string name="talk_with_us">Talk with us</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+    <string name="clicks">Clicks</string>
+    <string name="overview">Overview</string>
+    <string name="_2023_12_25_2024_01_24">2023-12-25 - 2024-01-24</string>
+</resources>
