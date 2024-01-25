@@ -13,4 +13,9 @@
     <string name="clicks">Clicks</string>
     <string name="overview">Overview</string>
     <string name="_2023_12_25_2024_01_24">2023-12-25 - 2024-01-24</string>
+    <string name="links">Links</string>
+    <string name="courses">Courses</string>
+    <string name="campaign">Campaign</string>
+    <string name="profile">Profile</string>
+    <string name="qr">Qr</string>
 </resources>

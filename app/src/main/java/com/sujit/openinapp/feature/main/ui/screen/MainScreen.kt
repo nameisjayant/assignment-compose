@@ -121,7 +121,7 @@ fun MainScreen(
                             color = BlueColor
                         ),
                     )
-                    LazyColumn {
+                    LazyColumn{
                         item {
                             SpacerHeight(32.dp)
                             GreetingComponent()
@@ -214,7 +214,7 @@ fun MainScreen(
                                 backgroundColor = LightBlue100,
                                 borderColor = LightBlue200
                             )
-                            SpacerHeight()
+                            SpacerHeight(130.dp)
                         }
                     }
                 }
